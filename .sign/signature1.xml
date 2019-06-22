@@ -4,51 +4,39 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>e8f9M+svavZ1Moe88C1w1RLHihfIx2pN6XGAhCwPt9U=</DigestValue>
+<DigestValue>Y5YWwVUmB2CCIN7GHv2qok4yzBsXYxpZY+E5kDgmerE=</DigestValue>
 </Reference>
 <Reference URI="bin%2Fambientanalogwatch">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>MBWbfxL8uqZtPR3KZmx+jVMUrXcDSScpTEPMsFT1/EE=</DigestValue>
+<DigestValue>YPxLJyE9oOgZx4VuyW4jFFWfC5CFxeQJmtK133PGU1A=</DigestValue>
 </Reference>
 <Reference URI="res%2Fedje%2Fmain.edj">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>uIsFTfYyOaVZHuLQddWIv94TTle6KdC0qeFf4sEebz8=</DigestValue>
+<DigestValue>c88VVmLoHeDaKyESOHHePc90nu8uQARaw2Gc5uJAKfk=</DigestValue>
 </Reference>
-<Reference URI="res%2Fimages%2Fblack_board.png">
+<Reference URI="res%2Fimages%2Fbackground_normal.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>utgZMUWn2qgjdSOryX1FiR4UFkMVaPtyJXWb8PHo+eY=</DigestValue>
-</Reference>
-<Reference URI="res%2Fimages%2Fcipher_board_bg.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>EM/HqG4pN0lSGCVjG9A5oEEnPsrSk3Iftsv8HsuWwug=</DigestValue>
+<DigestValue>YgGJaEdTSRBKK+AKFCE1ZhcMzX3x3GJA4BWpTSyJwp0=</DigestValue>
 </Reference>
 <Reference URI="res%2Fimages%2Fhand_hour.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>qY+BRMEKqVXwOeX8f2AILDKaqcm9366jq1VErO6U3yU=</DigestValue>
+<DigestValue>LGslWvmaMp+zAJeVHq6OmU60zB1A1gbGMV5dkOiCq7U=</DigestValue>
 </Reference>
 <Reference URI="res%2Fimages%2Fhand_minute.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Dv2RAGR/UC03mHbQy62Q8Hr2+oYuWWe8IteETWejtKQ=</DigestValue>
+<DigestValue>Ew9lICwi0ZxfCzmjmaCOoVpcuQ2LZ5HB5KXmmOiJ6FU=</DigestValue>
 </Reference>
 <Reference URI="res%2Fimages%2Fhand_second.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Dv2RAGR/UC03mHbQy62Q8Hr2+oYuWWe8IteETWejtKQ=</DigestValue>
+<DigestValue>/12MkhIN6EDcQX4ZyPJ9sFQTJj2UtUzcCjAjXjTBFQI=</DigestValue>
 </Reference>
-<Reference URI="res%2Fimages%2Fhand_second_back.png">
+<Reference URI="shared%2Fres%2Fblack_board.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>naT0UoqZo628w3PftW90BHPuwHgBKt+qhy9V8BKaYE0=</DigestValue>
-</Reference>
-<Reference URI="res%2Fimages%2Fhands_center.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>nhF+E2k+Bv+yQxrEtFvYvfOL5nhXytOGHLQv3mDveUQ=</DigestValue>
-</Reference>
-<Reference URI="shared%2Fres%2Ficon.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>DqiKoXZYAt4i0Y1RCLAF+WVqKuIsuIX2eGWjOzaqRxc=</DigestValue>
+<DigestValue>x9IVh2wOK9FUX5rRMbzqPbYCa5FWwG3RbWl+buhvltY=</DigestValue>
 </Reference>
 <Reference URI="tizen-manifest.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>6niLUzV5EP8tcEadTBqx2pTVbxXbirhXI2Vr4mYxmag=</DigestValue>
+<DigestValue>huD1BUuhPcAf98WbX/y8xduAG6owceHHwGGkl3DcuBo=</DigestValue>
 </Reference>
 <Reference URI="#prop">
 <Transforms>
@@ -59,11 +47,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-Vq/t7/CHPJjnW4oeONPADN6oNswwiM2YhIL+EDa15ldrBclZ4pM2QDDsdNWT6jfjxEmq+pqKWYSV
-eCNni37SOuky99E9Pu21zjJKNDd8m8OvUa6I4t/yeK6GfsHyXD5lnvUhq/qkLulngYWlh8Xg/FHZ
-XdKQCdHEAXrDtwhN/Rk/8I5SKwhKHkcoFhIQY2kCAtS7I52k9yMmPxJ1N8JBMjy7dG3MvWQ+97Iu
-MMcF3rtRTx/VavXiZ8XaO4bzKgPXI21QtS29fOkvrbbNUSj+5dx11SxehYQ0XHthM7qk0WpCg9tS
-juPWgntAJtsd9GordCK8Gb+fq5vfsjKcyv0ZGQ==
+RvIQgGrwVPsqnxmw6LItJAF7b9fQ+SAYJAR8lDN6OtDxPrj4P7BuyyuwhDFcBcB6rhoslCjOpzIC
+Gqu1a8yVPvPcyiNWM8+P7ijoFIQZWi6fgnXcOaJ0g6pK8X0hfAu/WhP3DmycobXkCaa5nBzfQNRd
+lDnD0nlEHojDEnERjdlNUHzk2FQVSkTAmssrLz/VzTSvKNVCwAXn4G7ZMBqS5ai9Hxa5N1biimMa
+SIxDP6G2LMrxY7sMxPOAGdQkI/m7UpwDW/WNQYmbQmuPrWzTECy8S6mOnSiyhfo2JUN/1Or60Y1J
+QnLQtEzIOJxYcrcTxsFnc7nWg6XGtvtDm0e3ZQ==
 </SignatureValue>
 <KeyInfo>
 <X509Data>
