@@ -1,0 +1,5 @@
+set sysroot D:\SDK\Tizen\sdk\platforms\tizen-4.0\wearable\rootstraps\wearable-4.0-emulator.core
+set debug-file-directory D:\SDK\Tizen\sdk\platforms\tizen-4.0\wearable\rootstraps\wearable-4.0-emulator.core\usr\lib\debug
+set solib-search-path C:\Users\zingz0r\workspace\AmbientAnalogWatch\Debug
+dir D:\SDK\Tizen\sdk\platforms\tizen-4.0\wearable\rootstraps\wearable-4.0-emulator.core\usr\src\debug
+sharedlibrary
