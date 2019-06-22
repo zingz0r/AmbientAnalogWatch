@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <manifest xmlns="http://tizen.org/ns/packages" api-version="2.3.2" package="org.example.ambientanalogwatch" version="1.0.0">
+    <author email="zingz0r@tothnet.hu" href="https://www.tothnet.hu">Tamás Tóth</author>
+    <description>Watch with always on second hand.</description>
     <profile name="wearable"/>
     <watch-application ambient-support="true" appid="org.example.ambientanalogwatch" exec="ambientanalogwatch">
         <label>ambientanalogwatch</label>
