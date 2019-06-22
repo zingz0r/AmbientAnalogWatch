@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3.1" package="org.example.ambientanalogwatch" version="1.0.0">
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3.2" package="org.example.ambientanalogwatch" version="1.0.0">
     <profile name="wearable"/>
     <watch-application ambient-support="true" appid="org.example.ambientanalogwatch" exec="ambientanalogwatch">
         <label>ambientanalogwatch</label>
-        <icon>ambientanalogwatch.png</icon>
+        <icon>black_board.png</icon>
     </watch-application>
     <privileges>
         <privilege>http://tizen.org/privilege/alarm.set</privilege>
